@@ -23,7 +23,7 @@ services:
       - todoback
       - todofront
     environment:
-      - FRONT_HOST: todofront
+      - FRONT_HOST: todofrontend
 
 
 
