@@ -14,7 +14,7 @@ services:
     depends_on:
       - todoback
     environment:
-      - REACT_APP_API_HOST: todoback
+      REACT_APP_API_HOST: todoback
     
   todotests:
     image: todotests
@@ -23,7 +23,7 @@ services:
       - todoback
       - todofront
     environment:
-      - FRONT_HOST: todofrontend
+      FRONT_HOST: todofrontend
 
 
 
