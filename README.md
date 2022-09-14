@@ -1,4 +1,4 @@
-# Docker Todo List 🐳
+# Projeto Docker Todo List 🐳
 
 A partir de um `front-end`, `back-end` e `testes`, todos desenvolvidos pela _[Trybe](https://www.betrybe.com/)_, esse projeto consiste na aplicação dos conhecimentos de conteinerização de aplicações e a criação de conexão entre os três segmentos da aplicação.
 
