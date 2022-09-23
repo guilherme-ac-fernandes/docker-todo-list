@@ -1,11 +1,11 @@
 # Projeto Docker Todo List 🐳
 
-A partir de um `front-end`, `back-end` e `testes`, todos desenvolvidos pela _[Trybe](https://www.betrybe.com/)_, esse projeto consiste na aplicação dos conhecimentos de conteinerização de aplicações e a criação de conexão entre os três segmentos da aplicação.
+A partir de um `front-end`, um `back-end` e seus testes `testes`, todos desenvolvidos pela _[Trybe](https://www.betrybe.com/)_, esse projeto consiste na utilização dos conhecimentos de conteinerização de aplicações e na criação de conexão entre os seus três segmentos.
 
 * Projeto desenvolvido utilizando Docker
 
 ### Comandos
-Os comandos a seguir consiste na aplicações do conhecimento de docker, os comandos estão presentes no diretório `./docker/docker-commands`:
+Os comandos a seguir consistem na aplicações do conhecimento de docker, os comandos estão presentes no diretório `./docker/docker-commands`:
 
 | Comando | Descrição |
 |---|---|
